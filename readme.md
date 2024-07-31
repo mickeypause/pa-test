@@ -22,5 +22,5 @@
 To start the project, run the following command:
 
 ```
-npm start
+npm run start
 ```
